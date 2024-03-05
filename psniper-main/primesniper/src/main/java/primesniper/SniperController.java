@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @CrossOrigin(origins = "*")
-
 @Controller
 @AllArgsConstructor
 @RequestMapping(path = "/api/v1/primeSniper/")
